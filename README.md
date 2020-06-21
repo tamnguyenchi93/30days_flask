@@ -16,3 +16,10 @@ Install `flask`
 ```bash
 pip install flask
 ```
+
+## Run
+
+```bash
+export FLASK_APP=my_app.py
+flask run
+```
